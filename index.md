@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "It´s Luna!!";
 ```
+- [x] Luna Image
+- [x] Luna code
+- [ ] More Luna?
